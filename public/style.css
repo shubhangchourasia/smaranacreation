@@ -1,0 +1,11 @@
+/* Background Image */
+#bgImage {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("./images/backgroundBW.webp") no-repeat center center;
+  min-height: 100vh;
+  /* filter: grayscale(100%); */
+}
+/* Hero Section */
+.heroSection {
+  color: #fff;
+}
